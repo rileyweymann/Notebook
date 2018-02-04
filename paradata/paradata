@@ -1,29 +1,17 @@
-This is the document that describes what you were doing, and what you learned through the process, especially with regard to the issues raised in the Core Philosophy readings (which you'd cite, naturally).
+Inuit Ublumi
 
-More info on 'paradata', from the HeritageJam:
 
-Paradata Resources and Direction
+Macro
 
-Among the documents used to critically inform heritage visualisation, paradata are details on the processes and methods behind the building and interpretation of our visual objects. The London Charter describes them as"documentation of the evaluative, analytical, deductive, interpretative and creative decisions made in the course of ... visualisation" to allow a clear understanding of how the visualisation came into being.
+  By utilizing 3D photogrammetry to create a representation of a real atrefact in the Ottawa area, one is able to interpret and reinterpret its purpose and context. By creating a digital copy of the artefact, the ownership of its being transfers to the new creator. In that way we are able to make something fundementally identical to its original, and yet control its future in a way which completely diverges from its prime form. In the course for which this is being made, the idea of context, divergence, and originallity are fundemental pillars. 
+  Scann3D photogrammetry is a tool which is highly accessible, though the subscription-based service puts some limitations if one isn't as willing to put down money for using the app. the files can also be difficult to pull from the app, at least if you have the limited experience with the software that I have. Despite some of the issues I had exporting, the app itself provided an excellent platform with which to start adding to and transforming the subject.
+  The actual model itself was unfinished as it was taken out of Scann3D, likely because of the difficulty in getting a full picture of a subject whose top is above the reach of the scanner. So, with the use of both Blender and MeshLab, I was eventually able to create a fairly accurate model with minimal holes. I chose these because I have some small experience with Blender, and as well almost any other program required a graphics card that my laptop was not equipped with. Experimentation was not a major factor in my decisions, rather ramming together everything that I knew and had due to the amount of time lost in finding a subject as well as other commitments that made too much research and thought more difficult. I regret having to do this, so time management and brainstorming will be something to fix in the future.
+  
+  
+  Micro
 
-Distinct from metadata (which describe the data themselves, their nature, location, and relation to other data, often employed for indexing purposes), paradata work to provide detailed contextual information about the processes of decision-making and the rationale for and derivation of the work.
-
-In visualisation, paradata provide the space through which we communicate ambiguity and transparency, and account for our practices. In explicitly detailing the creator's process, paradata enable openness, making visible the "relationship between research sources, implicit knowledge, explicit reasoning, and visualisation-based outcomes." This offers viewers an insight into the making process, and an opportunity to think critically about how our images are constructed and create meaning about the past.
-
-Macro Paradata: the big decisions relating to the nature of the visualisation.
-
-Why has the resource being created and for what audience? _(SG says: interpret this as asking you to tie your work into the big themes, issues, from this course)_
-
-How will the resource be put to use? Is it sustainable and accessible? _(SG says: interpret this to reflect on the technologies you've used)_
-
-Why have you chosen to use the approach/methods applied? _(SG says intrpret this to reflect on your actual process - what worked, what didn't, given the kinds of guidance or advice you've been able to find?)_
-Micro Paradata: the small-scale decision-making processes underlying the construction of the visualisation.
-
-What are the basic steps you followed in putting together the resource?
-
-What supporting evidence did you rely upon?
-
-How have you acknowledged uncertainty in the resource? Where might alternative interpretations have been made or where are such interpretations otherwise available for viewing audiences to refer to?
-References
-
-McCurdy, L. (2010). Visualising Architecture: The Experience of Creating Virtual Reconstructions. Unpublished Master's thesis, University of York, UK.
+  From January 17th to Jan 24th, 2018, I spent approximately 10 hours trying to find a subject that would work with the app, foolishly being too stubborn to take perfectly good models and using a computer-based program to remove the backgrounds, which were the main issue in capturing subjects outside. I attempted to capture subjects at Major's Hill Park, Parliament Hill, City Hall, the Ottawa Sports Hall of Fame, the National Art Gallery, Jack Purcell Park, Library and Archives Canada, and finally at the Canadian Museum of History, where I found a subject which the app could work with.
+  Inuit Ublumi was the only piece which one could easily walk around without glass or other objects getting in the way. Using the Android app Scann3D, I circled the subject, first taking 36 photos, but not capturing the subject high enough, forming holes in the model. I then took a second attempt at the subject, this time lifting the phone above my head and taking 43 photos which the software pieced together to create the model. There were still holes, but I would likely be banned from the museum if I tried to climb any piece to get a better view of the top. 
+  Once the model was eventually exported to my Google Drive, it was imported into Blender to fill the holes in the tops. That process was simple, though it took multiple attempts to get the texture to map properly to the model, and in the end much of it was stretched around the patched holes. 
+  Uploading this new model to github was not easy, as it was too large. As well, sometimes when exorting it from Blender, the file wouldn't be entirely complete. Attempts to use Unity, Mesh Magic, and MeshLab proved fruitless as either my graphics card was insufficient or the file was incompatible for one reason or another, so those ideas were scrapped. Eventually, Sketchfab was the only way to effectively display the model.
+  Creating a background for the object was difficult, as very little has been written about Pierre Karlik, the sculptor. The museum's own description of the scupture does not include his date of death 5 years ago. research allowed me to take what was, for me, a last resort, and find its context within Canadian history. Its importance was only aknowledged by its position within its room, at the very centre, yet it was largely forgotten about until, if I may be so bold, I recreated it and made it into my own project. Everything but the physical form has been minimized or removed, which is why removing that last piece so that all that remains is the raw data and intangible pieces is so important.
