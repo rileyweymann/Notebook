@@ -2,10 +2,10 @@
 
 Of all the work we've done in this class, I'd say that the most intriguing and rewarding had to be when we reflected on what we had been reading and speaking about un the unconference format. There were many subjects which were brought forward for discussion, though only four were picked when it came to actually splitting off and sharing our thoughts. From the following list of contenders, only the last four were chosen:
 
-Trial + error: collaborative possibilities (6)
-Virtual archaeology (0)
-Philosophy of replicants (1)
-Module 2 (0)
+- Trial + error: collaborative possibilities (6)
+- Virtual archaeology (0)
+- Philosophy of replicants (1)
+- Module 2 (0)
 - Digital History in the Wild (8)
 - Accessibility of Virtual Reality (9) and Ethics/laws (8)
 - Software (8)
