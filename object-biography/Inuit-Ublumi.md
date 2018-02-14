@@ -29,12 +29,19 @@ CMCC IV-C-5194
 Please look at the sculpture "Inuit Ublumi"
 
 The Inuit today - Most now live in permanent settlements;
+
 The Inuit today - Are living in one settlement all winter long instead of moving around as they traditionally did;
+
 The Inuit today - Their children are now learning to speak English;
+
 The Inuit today - Are now seeing and experiencing many new things;
+
 The Inuit today - Don't understand many things that are happening;
+
 The Inuit today - Are searching for ways to be happy and contented;
+
 The Inuit today - Are no longer able to live their traditional lifestyle;
+
 The Inuit today - Are still unable to fit into the white man's lifestyle.
 
 (Karlik, 1974)
