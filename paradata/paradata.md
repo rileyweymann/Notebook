@@ -52,7 +52,7 @@ Because of this, I would think that almost all use of the model other than to fu
 
 *Micro*
 
-  I chose to use my process notes to create a list-form explaination of the steps I was taking, as well as the results afterwards. They can be found under the "process notes" folder, or by following this link: Notebook/process-notes/notes.md
+  I chose to use my process notes to create a list-form explaination of the steps I was taking, as well as the results afterwards. They can be found under the "process notes" folder, or by following this link: https://github.com/rileyweymann/Notebook/blob/master/process-notes/notes.md
 
   The main reference for the idea I used came from the work by Daniken discussed on February 5th, which illustrated his belief that ancient civilizations had contact with and help from aliens. He cherry-picked his facts and used the pieces he found as a way to create a new narrative than how they were portrayed in other contexts. Individually they meant very little to him, but as a whole, when displayed together, they made a compelling case for the presence of extraterrestrial life on Earth. We know this to be false, however the way he used his position to control discussion and facts was so interesting that I felt it needed to be explored. The tone of my project from the first module into the second has changed completely – and some would say it is worse off for it. But that is a facet of digital history. The ability to change minds and alter facts is dangerous when it is so easy to compile and showcase.
   
