@@ -1,3 +1,4 @@
+Module 1:
 **Inuit Ublumi**
 
 
@@ -28,3 +29,29 @@ Macro
   Uploading this new model to github was not easy, as it was too large. As well, sometimes when exorting it from Blender, the file wouldn't be entirely complete. Attempts to use Unity, Mesh Magic, and MeshLab proved fruitless as either my graphics card was insufficient or the file was incompatible for one reason or another, so those ideas were scrapped. Eventually, Sketchfab was the only way to effectively display the model.
   
   Creating a background for the object was difficult, as very little has been written about Pierre Karlik, the sculptor. The museum's own description of the scupture does not include his date of death 5 years ago. research allowed me to take what was, for me, a last resort, and find its context within Canadian history. Its importance was only aknowledged by its position within its room, at the very centre, yet it was largely forgotten about until, if I may be so bold, I recreated it and made it into my own project. Everything but the physical form has been minimized or removed, which is why removing that last piece so that all that remains is the raw data and intangible pieces is so important.
+  
+  
+ 
+ Module 2:
+**Inuit Ublumi mixed with basic R2 Unit**
+
+
+Macro
+
+
+  In order to “remix” or transform data and models, a number of actions must be made to divorce it from its original context, and create an entirely new one in which it can operate and express something original or at least different. In the February 5th lecture on remixing, the idea of “good” and “bad” remixing was proposed. Something which pushes a different agenda, or uses chosen data to misrepresent certain facts or data, is often considered “bad” because of its destructive nature. With this in mind, I have decided to completely change the narrative which had me so enthralled in the piece in the first place, and force it into a conversation which was absolutely present, but not nearly the most important part of the original conversation. 
+
+  The first idea to be explored was with sonification of the raw data in the model. The process uses algorithms to assign values to the data, and then place those values on an instrument or sound. The idea I was using with this was to change the reflective and serious tone of the poem used in the statue, along with its code, to create an aggressive or perhaps cheerful song that would be used to further a different narrative over the state of the Inuit Peoples and their relationship with the Capital. However, the websites I attempted to use (musicalgorithms.org and SoundData on thebestschools.org) either did not suit my goal, or did not accept the inputted data, either by its own programming, or by my incorrect input.
+
+  The next possibility which I settled on was mixing the current model with one made by someone else as a way to skew the narrative. Sketchfab, which I was already using, as well as Free3D.com, provided a decent platform for searching through downloadable models which could push my agenda. The first option was to undermine the seriousness and deterioration of the piece by mixing it with something happy and distracting, pushing a narrative that all is fine with the Inuit, and that the efforts to preserve culture with the new technology and politics are, despite the poem, going just fine. The other option was to create a more negative narrative, focussing on the past and the sombre nature of the poem, then making it more aggressive. I decided to move on this idea, creating a narrative on the consequences of colonialism and the complex and uncertain nature of the Inuit’s place in the modern world. 
+
+  I searched for African masks to add to the statue’s faces, but the masks on the websites I used either came untextured or would not interact well with the statue model. So, I extended the search to the much wider theme of imperialism. It is pretty well the same thing, but extends beyond colonialism and even New Imperialism. Many objects came forward, though again many would not work. Eventually I decided to expand the search to the most topical example of imperialism that I could think of: Star Wars. The final consideration was given to an R2D2 model, which I painted myself, and was used as a platform or pedestal to hold up the statue. Issues with Meshmixer and other programs forced me to return to Blender as a way to mix the model, though the texturing was still an issue, there are arguments that could be made for the glitch and how it has changed the model to represent how fractured and distant the original point has become. 
+Because of this, I would think that almost all use of the model other than to further my own supposed comment on colonialism and imperialism, and the pessimistic outlook for the future of the Inuit has been lost. Sustainability is not something that concerns this argument, and so I highly doubt that the mixing of these two models will ever amount to anything beyond the scope I have made for it.
+
+
+
+##Micro:
+
+  I chose to use my process notes to create a list-form explaination of the steps I was taking, as well as the results afterwards. They can be found under the "process notes" folder, or by following this link: Notebook/process-notes/notes.md
+
+  
