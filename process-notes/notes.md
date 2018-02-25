@@ -29,3 +29,12 @@ R2D2:
 - Maybe I could use armatures? Possibly useful later with the videogame, but maybe for now they could help me with reference to movement. Could be bad for Sketchfab... we will have to see how the armatures transfer over. Worst case I have a .blend file apart from the main file.
 - I need to experiment with weights. Thinking back and trying to remember rules is difficult. The armatures don't seem to want to parent to the legs.
 - Moves well enough after getting the weights right, just need to adjust the space they take up and see if that's an issue.
+
+Upload: File Types
+
+- .obj: processed, but the statue is textureless.
+- .fbx: processed, but fractured and completely missing the statue
+- .ply: not processed (poor internet connection?)
+- .dae: not processed (poor internet connection?)
+
+On the plus side, armatures have not impacted the models. They seem to have kept their hidden property.
