@@ -1,8 +1,8 @@
-Module 1:
-**Inuit Ublumi**
+**Module 1:
+Inuit Ublumi**
 
 
-Macro
+*Macro
 
 
   By utilizing 3D photogrammetry to create a representation of a real atrefact in the Ottawa area, one is able to interpret and reinterpret its purpose and context. By creating a digital copy of the artefact, the ownership of its being transfers to the new creator. In that way we are able to make something fundementally identical to its original, and yet control its future in a way which completely diverges from its prime form. In the course for which this is being made, the idea of context, divergence, and originallity are fundemental pillars. 
@@ -17,7 +17,7 @@ Macro
   
   
   
-  Micro
+*Micro
 
 
   From January 17th to Jan 24th, 2018, I spent approximately 10 hours trying to find a subject that would work with the app, foolishly being too stubborn to take perfectly good models and using a computer-based program to remove the backgrounds, which were the main issue in capturing subjects outside. I attempted to capture subjects at Major's Hill Park, Parliament Hill, City Hall, the Ottawa Sports Hall of Fame, the National Art Gallery, Jack Purcell Park, Library and Archives Canada, and finally at the Canadian Museum of History, where I found a subject which the app could work with.
@@ -32,11 +32,11 @@ Macro
   
   
  
- Module 2:
-**Inuit Ublumi mixed with basic R2 Unit**
+ **Module 2:
+Inuit Ublumi mixed with basic R2 Unit**
 
 
-Macro
+*Macro
 
 
   In order to “remix” or transform data and models, a number of actions must be made to divorce it from its original context, and create an entirely new one in which it can operate and express something original or at least different. In the February 5th lecture on remixing, the idea of “good” and “bad” remixing was proposed. Something which pushes a different agenda, or uses chosen data to misrepresent certain facts or data, is often considered “bad” because of its destructive nature. With this in mind, I have decided to completely change the narrative which had me so enthralled in the piece in the first place, and force it into a conversation which was absolutely present, but not nearly the most important part of the original conversation. 
@@ -50,7 +50,7 @@ Because of this, I would think that almost all use of the model other than to fu
 
 
 
-##Micro:
+*Micro:
 
   I chose to use my process notes to create a list-form explaination of the steps I was taking, as well as the results afterwards. They can be found under the "process notes" folder, or by following this link: Notebook/process-notes/notes.md
 
