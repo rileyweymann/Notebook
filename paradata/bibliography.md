@@ -14,3 +14,7 @@ Tootoo, Hunter (2013). "Member’s Statement 522 – 3(3): Passing of Pierre Kar
 (finish) http://www.starwars.com/databank/r2-d2
 
 (finish) https://free3d.com/3d-model/r2d2-by-abrock-46556.html
+
+(finish) http://www.academia.edu/31909196/THE_LIFE_OF_ATTRIBUTES_META_AND_PARADATA_AS_3D_POINT_AND_OBJECT_DNA_FOR_HERITAGE_PROVIDENCE
+
+(finish) https://journals-scholarsportal-info.proxy.library.carleton.ca/details/03007766/v31i0004/489_rtdrmatmosr.xml&janrain=false&linkcolor=0074be
