@@ -18,3 +18,28 @@ Tootoo, Hunter (2013). "Member’s Statement 522 – 3(3): Passing of Pierre Kar
 (finish) http://www.academia.edu/31909196/THE_LIFE_OF_ATTRIBUTES_META_AND_PARADATA_AS_3D_POINT_AND_OBJECT_DNA_FOR_HERITAGE_PROVIDENCE
 
 (finish) https://journals-scholarsportal-info.proxy.library.carleton.ca/details/03007766/v31i0004/489_rtdrmatmosr.xml&janrain=false&linkcolor=0074be
+
+
+Game Tutorials: (Finish)
+
+- Unity
+https://unity3d.com/learn/tutorials/projects/space-shooter/adding-a-background
+https://docs.unity3d.com/Manual/CreatingGameplay.html
+https://www.piskelapp.com/p/agxzfnBpc2tlbC1hcHByEwsSBlBpc2tlbBiAgMCrqo_yCQw/edit
+https://unity3d.com/learn/tutorials/topics/2d-game-creation/2d-game-development-walkthrough?playlist=17093
+https://unity3d.com/learn/tutorials/s/2d-game-creation
+https://unity3d.com/learn/tutorials/topics/2d-game-creation/2d-character-controllers?playlist=17093
+https://docs.unity3d.com/ScriptReference/index.html 
+https://unity3d.com/learn/tutorials/topics/2d-game-creation/creating-basic-platformer-game
+https://unity3d.com/learn/tutorials/topics/2d-game-creation/intro-and-session-goals
+https://docs.unity3d.com/Manual/CreatingGameplay.html
+https://www.youtube.com/watch?v=Z5Wm-WZi0g8
+https://answers.unity.com/questions/1202430/popup-text-in-certain-area-when-clicked.html
+https://unity3d.com/learn/tutorials/s/user-interface-ui
+https://docs.unity3d.com/ScriptReference/index.html
+https://unity3d.com/learn/tutorials/topics/2d-game-creation/creating-basic-platformer-game
+https://unity3d.com/learn/tutorials/topics/2d-game-creation/intro-and-session-goals
+
+- RPG Maker
+https://www.rpgmakerweb.com/support/products/tutorials
+http://steamcommunity.com/app/220700/discussions/0/828939797122494221/
