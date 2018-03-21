@@ -32,3 +32,5 @@ A few events were put in front of broken statues, simply with the "add text" opt
 Additional maps are there, somewhat similar to the world map, but with many differences and liberties. Objects are used as barriers to force the player into going into a certain house or path, or to bar them from trying to access unplanned areas.
 
 Architecture is important here. Having them progressively get more and more deteriorated means that there will be more significance on the visuals in the narratives and themes.
+
+A simple "Game Over" follows the last statue. I would rather do something more robust and incorporate the 3D model, alas there is no time and I lack the necessary skills.
